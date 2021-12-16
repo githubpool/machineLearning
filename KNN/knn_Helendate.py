@@ -15,8 +15,6 @@ Parameters:
 	k - kNN算法参数,选择距离最小的k个点
 Returns:
 	sortedClassCount[0][0] - 分类结果
-Modify:
-	2017-03-24
 """
 
 
@@ -58,8 +56,6 @@ Parameters:
 Returns:
 	returnMat - 特征矩阵
 	classLabelVector - 分类Label向量
-Modify:
-	2017-03-24
 """
 
 
@@ -106,8 +102,6 @@ Parameters:
 	datingLabels - 分类Label
 Returns:
 	无
-Modify:
-	2017-03-24
 """
 
 
@@ -179,8 +173,6 @@ Returns:
 	normDataSet - 归一化后的特征矩阵
 	ranges - 数据范围
 	minVals - 数据最小值
-Modify:
-	2017-03-24
 """
 
 
@@ -209,8 +201,6 @@ Parameters:
 	无
 Returns:
 	无
-Modify:
-	2017-03-24
 """
 
 
@@ -246,8 +236,6 @@ Parameters:
 	无
 Returns:
 	无
-Modify:
-	2017-03-24
 """
 
 
@@ -280,8 +268,6 @@ Parameters:
 	无
 Returns:
 	无
-Modify:
-	2017-03-24
 """
 if __name__ == '__main__':
     datingClassTest()
